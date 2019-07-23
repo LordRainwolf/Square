@@ -1,0 +1,25 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "Square",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 960455,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 930,
+                    "y": 162.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        }
+    ],
+    "circleSegmentSize": 2
+}
